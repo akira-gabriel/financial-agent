@@ -1,0 +1,11 @@
+pyproject.toml
+src/financial_agent/__init__.py
+src/financial_agent.egg-info/PKG-INFO
+src/financial_agent.egg-info/SOURCES.txt
+src/financial_agent.egg-info/dependency_links.txt
+src/financial_agent.egg-info/requires.txt
+src/financial_agent.egg-info/top_level.txt
+src/financial_agent/core/__init__.py
+src/financial_agent/core/agent.py
+src/financial_agent/tools/__init__.py
+src/financial_agent/tools/market.py
